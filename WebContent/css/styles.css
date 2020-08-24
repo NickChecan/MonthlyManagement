@@ -1,0 +1,6 @@
+/* Make Text Bold */
+.Textbold{
+	font-weight: bold;
+    font-size: small;
+    color: red;
+}

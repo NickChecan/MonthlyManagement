@@ -1,0 +1,6 @@
+When we run this UI5-App in Eclipse, its flow is as below:
+* ‘index.html’ -> ‘Component.js’ -> ‘App’ view -> ‘Master’ view -> ‘Details’ view
+
+Post-deployment of this UI5-App in SAP-Fiori (Front-End) server, its flow is as below:
+* ‘Component.js’ -> ‘App’ view -> ‘Master’ view -> ‘Details’ view
+
